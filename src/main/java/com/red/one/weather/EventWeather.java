@@ -7,14 +7,8 @@ import com.red.one.weather.dto.WeatherDto;
  */
 public class EventWeather {
 
-    /**
-     * The title of the product.
-     */
     private Object event;
 
-    /**
-     * The inventories of the product.
-     */
     private WeatherDto weatherDto;
 
     public Object getEvent() {
